@@ -90,9 +90,7 @@ function Footer({ company, links }) {
             mt: 0,
           },
         })}
-      >
-        {renderLinks()}
-      </MDBox>
+      ></MDBox>
     </MDBox>
   );
 }
